@@ -1,5 +1,5 @@
 === WP PagSeguro Payments ===
-Contributors: giovanebribeiro
+Contributors: giovanebribeiro, evertonh
 Tags: pagseguro, payment, button
 Requires at least: 3.0.1
 Tested up to: 3.9.1
