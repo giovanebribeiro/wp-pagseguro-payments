@@ -72,4 +72,8 @@ Não é necessária nenhuma configuração adicional, por enquanto.
 *	Atalhos fáceis de usar em qualquer página/post dentro do WP
 *	Fácil de configurar (Apenas três campos a serem configurados: E-mail, token e URL de retorno)
 *	Menu próprio (dentro das configurações do WP) para edição fácil e prática das configurações citadas acima
+<<<<<<< HEAD
 *	Possibilidade de redirect para mesma página ou outra janela/aba.
+=======
+*	Possibilidade de redirect para mesma página ou outra janela/aba.
+>>>>>>> 09ad72d4e860da1bbf88aba79298d32ee53f857a
