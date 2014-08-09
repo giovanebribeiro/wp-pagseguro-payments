@@ -3,7 +3,7 @@ Contributors: giovanebribeiro, evertonh
 Tags: pagseguro, payment, button
 Requires at least: 3.0.1
 Tested up to: 3.9.1
-Stable tag: 1.0
+Stable tag: 1.0.0
 License: Apache License v2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
